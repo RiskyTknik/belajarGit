@@ -8,3 +8,12 @@ Daftar tugas / branch
   7. Tugas-finalProject
 
 Daftar perintah GiT
+- git clone https://github.com/RiskyTknik/belajarGit.git → Mengunduh repositori ke lokal
+- git checkout -b <branch> → Membuat branch baru
+- Touch <file.txt> → Membuat file txt
+- nano <file.txt> → Mengedit file txt
+- git add <file> → Menambahkan perubahan ke staging
+- git commit -m "<pesan>" → Menyimpan perubahan dengan pesan
+- git merge <branch> → Menggabungkan branch ke main
+- git push origin main → Mengunggah perubahan ke GitHub
+- git push origin --all → Mengunggah semua branch ke GitHub
